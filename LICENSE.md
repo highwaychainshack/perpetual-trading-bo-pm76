@@ -1,4 +1,4 @@
-# 
+# secure ftx trading bot Module | price-monitoring + cross-margin is the best ftx trading bot, featuring price-monitoring and cross-margin. Smart, fast, and optimized for trading on
 
 
 
